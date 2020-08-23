@@ -1,4 +1,4 @@
-### Hi there,I'm Shikher! 👋
+### Hi there,Welcome! 👋
 
 > This is Shikher, a software Developer from INDIA. You can see my Blogs here <a href="https://medium.com/@sirshikher">https://medium.com/@sirshikher</a>
 
